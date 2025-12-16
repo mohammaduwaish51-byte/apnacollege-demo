@@ -1,2 +1,3 @@
-# apnacollege-demo
-This is my first Repository
+# solo-Genius
+This is my first Git Repository
+Author- Md Uwaish
